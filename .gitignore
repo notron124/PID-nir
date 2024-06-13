@@ -1,0 +1,10 @@
+# ignore all .XXX files
+*.bat
+*.o
+*.su
+*.list
+*.map
+*.elf
+*.hex
+./Release
+/Release/
